@@ -10,7 +10,7 @@ Material for the hands-on sessions of the [3D computer vision workshop](http://c
 - OpenCV
   - `pip3 install opencv-python==3.4.2.17`
 - OpenCV Contrib (for SIFT/SURF)
-  - `pip3 install opencv-python==3.4.2.17`
+  - `pip3 install opencv-contrib-python==3.4.2.17`
 - Matplotlib
   - `pip3 install matplotlib`
 
