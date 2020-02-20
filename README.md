@@ -8,7 +8,9 @@ Material for the hands-on sessions of the [3D computer vision workshop](http://c
 - Numpy
   - `pip3 install numpy`
 - OpenCV
-  - `pip3 install opencv-python`
+  - `pip3 install opencv-python==3.4.2.17`
+- OpenCV Contrib (for SIFT/SURF)
+  - `pip3 install opencv-python==3.4.2.17`
 - Matplotlib
   - `pip3 install matplotlib`
 
