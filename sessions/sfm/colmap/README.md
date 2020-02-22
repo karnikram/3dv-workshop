@@ -5,7 +5,7 @@ COLMAP is a state-of-the-art, free and open-source, Structure-from-Motion progra
 Given a set of unordered and uncalibrated images, the program can build an accurate sparse model of the scene as well as recover the camera poses. The program can also build a dense model if a CUDA-enabled GPU is available.
 
 <div align="center">
-  <img src="south_sample.png" width="600px" />
+  <img src="south-sample.png" width="600px" />
 </div>
 
 ### Getting started
