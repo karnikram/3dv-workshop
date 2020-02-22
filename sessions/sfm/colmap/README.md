@@ -4,6 +4,10 @@ COLMAP is a state-of-the-art, free and open-source, Structure-from-Motion progra
 
 Given a set of unordered and uncalibrated images, the program can build an accurate sparse model of the scene as well as recover the camera poses. The program can also build a dense model if a CUDA-enabled GPU is available.
 
+<div align="center">
+  <img src="south_sample.png" width="600px" />
+</div>
+
 ### Getting started
 
 - For Ubuntu 18.04+, simply run `sudo apt install colmap` to install. For other versions of Linux you might have to [build from source](https://colmap.github.io/install.html#build-from-source).
@@ -20,9 +24,11 @@ Given a set of unordered and uncalibrated images, the program can build an accur
 
 - Click Run. This can take up to 20 minutes on a Core i5 CPU with 8GB RAM.
 
-- Controls:
+- Model controls:
     - Rotate model: Left-click and drag.
     - Shift model: Right-click or <CTRL>-click (<CMD>-click) and drag.
     - Zoom model: Scroll.
+
+- More sample datasets are available [here](https://colmap.github.io/datasets.html).
 
 - Refer to the official [documentation](https://colmap.github.io/index.html) for a more comprehensive tutorial and the associated [paper](http://demuc.de/papers/schoenberger2016sfm.pdf).
