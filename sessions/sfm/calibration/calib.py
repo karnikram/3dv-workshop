@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 '''
+NOTE: THIS IS AN OPENCV SAMPLE FILE
+
 camera calibration for distorted images with chess board samples
 reads distorted images, calculates the calibration and write undistorted images
 usage:
