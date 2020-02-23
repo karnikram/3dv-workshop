@@ -17,8 +17,8 @@ Material for the hands-on sessions of the [3D computer vision workshop](http://c
 ## Sessions
 
 ### Day one
-[Stereo vision](sessions/stereo/) <br>
+[Stereo vision](sessions/stereo/) (Neeraj, Ashish) <br>
 
 ### Day two
-[Homography applications](sessions/homography) <br>
-[Structure from motion](sessions/sfm) <br>
+[Homography applications](sessions/homography) (Tanu) <br>
+[Structure from motion](sessions/sfm) (Karnik) <br>
